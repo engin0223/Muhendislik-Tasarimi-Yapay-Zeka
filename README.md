@@ -103,5 +103,3 @@ The scripts generate and populate the following directories:
 * `performance_results/` – Final performance plots for the best model, including 3D scatter plots, classification confusion matrices, and rejection thresholds.
 
 ---
-
-Do you want me to also **add a small diagram/figure placeholder** in the README showing the LDR setup with “Person → 2 LDRs → Signals → Autoencoder”? It might make the application instantly clear for readers.
